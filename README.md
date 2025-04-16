@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Hospital Management System using MERN Stack,Redux, TailwindCSS and Framer Motion
 
 <img src="images/1.jpg">
@@ -65,8 +65,7 @@ This project is licensed under the MIT License.
 Thanks to the MERN and Redux TailwindCSS communities for their amazing tools and resources.
 
 ## Contact
-For any inquiries or issues, please contact [allsurej@gmail.com].
+For any inquiries or issues, please contact [vivekchaudhary1708@gmail.com].
 
-=======
-# Hospital_Management_System
->>>>>>> b7d2da64d205ff05f1b102e28109bc98b78abbba
+HOST LINK-https://hms-mern.vercel.app/
+
